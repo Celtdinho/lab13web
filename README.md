@@ -1,5 +1,5 @@
-# Nama : Muhammad Hafiyainul Yakin Wahid
-# NIM : 312410164
+# Nama : Naufal Rafi Haryanto
+# NIM : 312410118
 
 
 # Praktikum 14 – Pencarian Data dengan PHP & MySQL
